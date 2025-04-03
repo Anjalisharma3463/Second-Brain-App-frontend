@@ -1,1 +1,1 @@
-# Second-Brain-App-frontend
+# Second-Brain-App
